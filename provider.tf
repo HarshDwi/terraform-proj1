@@ -9,6 +9,6 @@ terraform {
 
 provider "google" {
     
-  project     = "{$var.project_name}"
+  project     = "harsh-dwivedi-357805"
   region      = "us-central1"
 }

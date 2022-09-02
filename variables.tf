@@ -1,4 +1,4 @@
- variable "machine-type"{
+ variable "machine_type"{
     default = "e2-medium"
   }
 
@@ -6,6 +6,6 @@
       default = "ubuntu-os-cloud/ubuntu-2004-lts"
   }
 
-  variable "project_name"{
-      default = "harsh-dwivedi-357805"
-  }
+  // variable "project_name"{
+  //    default = 
+  //  }
